@@ -1,4 +1,4 @@
-![ODSC Keynote](images/0b8cc44971bf66c932f6f96ae4fd2fbd.jpg)
+![ODSC Keynote](Images/0b8cc44971bf66c932f6f96ae4fd2fbd.jpg)
 
 [开源数据科学论坛](//www.odsc.com)（Open Data Science Conference，简称ODSC），是一个全球性的关于数据科学的盛会，它的主旨在于为每一个想要学习数据科学和想为开源项目贡献力量的人们创造一个与全世界的数据科学社区进行交流的机会，并以此来加快技术创新和开源软件发展的步伐。
 
